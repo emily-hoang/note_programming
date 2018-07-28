@@ -7,3 +7,5 @@
 `git commit -am 'reason_for_changes' ` will commit the file
 
 `git pull` will pull changes from github
+
+`git push` will push it to github
