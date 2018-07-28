@@ -11,3 +11,5 @@
 `git push` will push it to github
 
 `git status` tells you what hasn't been commited, added and what the difference to github...
+
+`git checkout file_name` restore the last commited version
